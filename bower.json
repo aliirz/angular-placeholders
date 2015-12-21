@@ -1,0 +1,25 @@
+{
+  "name": "angular-placeholders",
+  "description": "A set of placeholder directives & services for use during development of AngularJS apps.",
+  "main": "",
+  "authors": [
+    "Josh David Miller"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "placeholder",
+    "angular",
+    "ng",
+    "image",
+    "text"
+  ],
+  "homepage": "https://github.com/aliirz/angular-placeholders",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
